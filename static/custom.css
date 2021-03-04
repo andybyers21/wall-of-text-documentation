@@ -1,0 +1,9 @@
+/* site header */
+.gdoc-header { 
+    background: #bd93f9; 
+    border-color: #404040; 
+}
+.gdoc-header__link, 
+.gdoc-header__link:visited { 
+    color: #404040; 
+}

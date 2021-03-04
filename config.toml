@@ -19,3 +19,6 @@ enableGitInfo = true
     startLevel = 1
     endLevel = 9
 
+# (Optional, default static/brand.svg) Set the path to a logo for the Geekdoc
+# relative to your 'static/' folder.
+geekdocLogo = "Beaker-browser-icon-256.icns"
