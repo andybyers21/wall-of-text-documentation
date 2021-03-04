@@ -6,7 +6,7 @@ weight: -1
 
 - [ ] Proper case formatting of output.
 - [ ] Add title input/ output to pages.
-- [ ] Create documentation template site:
+- [X] Create documentation template site:
 
 ## V 0.0.3
 
