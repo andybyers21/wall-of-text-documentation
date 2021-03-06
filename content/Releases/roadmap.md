@@ -5,7 +5,8 @@ weight: -1
 ## V 0.0.2
 
 - [X] Add title input/ output to pages.
-- [X] Create documentation template site:
+- [X] Create documentation template site.
+- [ ] **Prevent XSS.** Do not allow users to enter script/html into input.
 - [ ] [V 0.0.1 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-001)
 
 ## V 0.0.3
