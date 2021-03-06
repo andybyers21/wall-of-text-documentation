@@ -2,10 +2,11 @@ Dummy text is provided to run the following edge cases. (`process.py > text_proc
 
 ## V 0.0.1
 
-- [ ] email addresses & url's with a dot break the chain. (Looking at using
+- [ ] If the last sentance does not have a full stop it gets ignored.
+- [ ] Email addresses & url's with a dot break the chain. (Looking at using
       `.<Space>`)
-- [ ] numbered questions are also an issue, e.g. `1.`
-- [ ] wikipedia article citations `[2]` also break te chain
+- [ ] Numbered questions are also an issue, e.g. `1.`
+- [ ] Wikipedia article citations `[2]` also break te chain
 
 ## Considerations
 
