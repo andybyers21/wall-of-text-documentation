@@ -4,7 +4,6 @@ weight: -1
 
 ## V 0.0.2
 
-- [ ] Proper case formatting of output.
 - [X] Add title input/ output to pages.
 - [X] Create documentation template site:
 - [ ] [V 0.0.1 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-001)
@@ -14,6 +13,7 @@ weight: -1
 - [ ] Format url's, e-mails etc:
   - [ ] If url or email in text, make sure it's clickable.
 - [ ] Highlight parts of speech (nouns, verbs etc) using nltk.
+- [ ] Proper case formatting of output.
 - [ ] Refactor code:
   - [ ] Don't forget python comments / docstrings.
 - [ ] [V 0.0.2 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-002)
@@ -25,8 +25,9 @@ weight: -1
 - [ ] Create page content (about, feedback etc).
 - [ ] Clean up and add styling to documentation.
 - [ ] Check spelling everywhere!
-- [ ] Make editable documentation pages.
 - [ ] [V 0.0.3 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-003)
+- [ ] **Host site & docs site**
+- [ ] Make editable documentation pages:
 
 ```toml
 # (Optional, default none) Set source repository location. Used for 'Edit this page' links.
@@ -46,6 +47,7 @@ geekdocEditPath = "edit/master/exampleSite/content"
 
 - [ ] Pretty print numbers and dates etc.
   - [ ] Dates should all be of the same format.
+- [ ] Format headings within the text.
 - [ ] Add some info about the text. Number of words, average word length etc.
 - [ ] [V 0.0.4 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-004)
 
