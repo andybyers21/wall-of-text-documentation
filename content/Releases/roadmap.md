@@ -19,6 +19,10 @@ weight: -1
 - [ ] Proper case formatting of output.
 - [ ] Refactor code:
   - [ ] Don't forget python comments / docstrings.
+- [ ] Add to portfolio after this version.
+  - [ ] _Delete this item befor hosting._
+  - [ ] _Be sure to mention it's a WIP._
+  - [ ] _Include details on the roadmap and docs site._
 - [ ] [V 0.0.2 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-002)
 
 ## V 0.0.4
