@@ -6,13 +6,16 @@ weight: -1
 
 - [X] Add title input/ output to pages.
 - [X] Create documentation template site.
-- [ ] **Prevent XSS.** Do not allow users to enter script/html into input.
-- [ ] [V 0.0.1 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-001)
+- [X] Add cross site request forgery protection.
+- [X] **Prevent XSS.** Do not allow users to enter script/html into input.
+- [X] [V 0.0.1 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-001)
 
 ## V 0.0.3
 
 - [ ] Format url's, e-mails etc:
-  - [ ] If url or email in text, make sure it's clickable.
+  - [ ] If url or email in text, make sure it's clickable. Use [Bleach
+    Linkify](https://bleach.readthedocs.io/en/latest/index.html)
+    for this
 - [ ] Highlight parts of speech (nouns, verbs etc) using nltk.
 - [ ] Proper case formatting of output.
 - [ ] Refactor code:
