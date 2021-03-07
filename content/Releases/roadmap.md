@@ -12,11 +12,10 @@ weight: -1
 
 ## V 0.0.3
 
-- [ ] Format url's, e-mails etc:
-  - [ ] If url or email in text, make sure it's clickable. Use [Bleach
-    Linkify](https://bleach.readthedocs.io/en/latest/index.html)
-    for this
 - [ ] Highlight parts of speech (nouns, verbs etc) using nltk.
+- [ ] Format url's, e-mails etc:
+  - [ ] If url or email in text, make sure it's clickable. Use 
+    [Bleach Linkify](https://bleach.readthedocs.io/en/latest/index.html) for this
 - [ ] Proper case formatting of output.
 - [ ] Refactor code:
   - [ ] Don't forget python comments / docstrings.
@@ -57,13 +56,17 @@ geekdocEditPath = "edit/master/exampleSite/content"
 
 ## V 0.0.6
 
+- [ ] Parse html input
+
+## V 0.0.7
+
 - [ ] Take input from documents:
   - [ ] pdf
   - [ ] docx
   - [ ] etc
 - [ ] [V 0.0.5 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-005)
 
-## V 0.0.7
+## V 0.0.8
 
 - [ ] Take input from photographs.
 - [ ] [V 0.0.6 Bug Fixes](../../Developer/bugs_and_edge_cases/#v-006)
