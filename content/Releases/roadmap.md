@@ -12,13 +12,17 @@ weight: -1
 
 ## V 0.0.3
 
-- [ ] Highlight parts of speech (nouns, verbs etc) using nltk.
 - [ ] Format url's, e-mails etc:
   - [ ] If url or email in text, make sure it's clickable. Use 
     [Bleach Linkify](https://bleach.readthedocs.io/en/latest/index.html) for this
 - [ ] Proper case formatting of output.
-- [ ] Refactor code:
+- [ ] Highlight parts of speech (nouns, verbs etc).
+  - [ ] nltk, spaCy or homebrew solution???
+- [ ] Update list convert script for a more complete experience (add in
+  `list_name`, `[]` etc.)
+ [ ] Refactor code:
   - [ ] Don't forget python comments / docstrings.
+  - [ ] Clean file and folder structure.
 - [ ] Add to portfolio after this version.
   - [ ] _Delete this item befor hosting._
   - [ ] _Be sure to mention it's a WIP._
