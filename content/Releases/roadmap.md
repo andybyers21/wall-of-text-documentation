@@ -64,6 +64,7 @@ geekdocEditPath = "edit/master/exampleSite/content"
 
 ## V 0.0.6
 
+- [ ] Add a light/ dark mode
 - [ ] Parse html input
 
 ## V 0.0.7
